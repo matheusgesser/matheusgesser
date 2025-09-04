@@ -5,4 +5,6 @@ I'm Matheus, front-end developer from &nbsp;<img src="https://cdn-icons-png.flat
 ## Reach me
 ### matheusmvg@hotmail.com
 
-<a href="https://linkedin.com/in/matheusgesser"><img src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png' height="32px" /></a>
+<a href="https://linkedin.com/in/matheusgesser" target="_blank" rel="noopener noreferrer">
+  <img src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png' height="32px" />
+</a>
