@@ -1,8 +1,6 @@
 <img width="100%" height="auto" src="https://github.com/user-attachments/assets/04654ee5-0374-4dc5-8234-2ae42251c160" />
 
-### Hey👋
-
-I'm Matheus, front-end developer from &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/16021/16021981.png" width="13" /> <b>Blumenau, Brazil</b>
+frontend enthusiast shaping digital experiences from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021981.png" width="13" /> blumenau, brazil
 
 ## Reach me
 ### matheusmvg@hotmail.com
